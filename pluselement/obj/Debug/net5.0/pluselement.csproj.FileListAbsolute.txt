@@ -1,0 +1,16 @@
+C:\Users\ibm\source\repos\pluselement\pluselement\obj\Debug\net5.0\pluselement.csproj.AssemblyReference.cache
+C:\Users\ibm\source\repos\pluselement\pluselement\obj\Debug\net5.0\pluselement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibm\source\repos\pluselement\pluselement\obj\Debug\net5.0\pluselement.AssemblyInfoInputs.cache
+C:\Users\ibm\source\repos\pluselement\pluselement\obj\Debug\net5.0\pluselement.AssemblyInfo.cs
+C:\Users\ibm\source\repos\pluselement\pluselement\obj\Debug\net5.0\pluselement.csproj.CoreCompileInputs.cache
+C:\Users\ibm\source\repos\pluselement\pluselement\bin\Debug\net5.0\pluselement.exe
+C:\Users\ibm\source\repos\pluselement\pluselement\bin\Debug\net5.0\pluselement.deps.json
+C:\Users\ibm\source\repos\pluselement\pluselement\bin\Debug\net5.0\pluselement.runtimeconfig.json
+C:\Users\ibm\source\repos\pluselement\pluselement\bin\Debug\net5.0\pluselement.runtimeconfig.dev.json
+C:\Users\ibm\source\repos\pluselement\pluselement\bin\Debug\net5.0\pluselement.dll
+C:\Users\ibm\source\repos\pluselement\pluselement\bin\Debug\net5.0\ref\pluselement.dll
+C:\Users\ibm\source\repos\pluselement\pluselement\bin\Debug\net5.0\pluselement.pdb
+C:\Users\ibm\source\repos\pluselement\pluselement\obj\Debug\net5.0\pluselement.dll
+C:\Users\ibm\source\repos\pluselement\pluselement\obj\Debug\net5.0\ref\pluselement.dll
+C:\Users\ibm\source\repos\pluselement\pluselement\obj\Debug\net5.0\pluselement.pdb
+C:\Users\ibm\source\repos\pluselement\pluselement\obj\Debug\net5.0\pluselement.genruntimeconfig.cache
